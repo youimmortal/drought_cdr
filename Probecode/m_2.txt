@@ -1,0 +1,3 @@
+grdc_no;river;station;name_in Pegelonline
+6335050;RHINE RIVER;DUESSELDORF;Dsseldorf
+6340180;ELBE RIVER;MAGDEBURG-STROMBRUECKE;magdeburgstrombrcke
